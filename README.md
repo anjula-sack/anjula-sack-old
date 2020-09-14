@@ -6,3 +6,5 @@
 - 💬 Ask me about me 😅
 - 📫 How to reach me: [Facebook](https://www.facebook.com/anjula.shanaka)
 - 🌐 Find out more at [anjula.me](http://anjula.me/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=anjula-sack&&show_icons=true" />

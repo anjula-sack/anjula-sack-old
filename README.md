@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Anjula 😊 
 
-- 🔭 Working as a Software Engineer Intern at Rootcode Labs
+- 🔭 Working as a Software Engineer Intern at [Rootcode Labs](https://rootcodelabs.com/)
 - 📚 Volunteer at Sustainable Educational Foundation (SEF)
 - 📖 Read my blog posts at [Medium](https://medium.com/@anjulashanaka)
 - 💬 Ask me about me 😅

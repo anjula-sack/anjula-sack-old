@@ -4,7 +4,7 @@
 - 📚 Volunteer at [Sustainable Educational Foundation (SEF)](https://sefglobal.org/)
 - 📖 Read my blog posts at [Medium](https://medium.com/@anjulashanaka)
 - 💬 Ask me about me 😅
-- 📫 How to reach me: [Facebook](https://www.facebook.com/anjula.shanaka)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anjula-sack/)
 - 🌐 Find out more at [anjula.me](http://anjula.me/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=anjula-sack&&show_icons=true" />
